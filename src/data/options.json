@@ -39,7 +39,7 @@
             "type": "Toggle",
             "default": false,
             "group": "Game Options"
-        },
+        }
     },
     "user": {
         "_commented_out_option":{
