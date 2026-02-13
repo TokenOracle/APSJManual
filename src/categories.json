@@ -1,0 +1,31 @@
+{"Intermediate": {
+    "yaml_option": ["enable_intermediate"],
+	"hidden": true
+},
+"Beginner": {
+    "yaml_option": ["enable_beginner"],
+	"hidden": true
+},
+"Advanced": {
+    "yaml_option": ["enable_advanced"],
+	"hidden": true
+},
+"Lobby": {
+    "yaml_option": ["lobbysanity"],
+	"hidden": true
+},
+"Checkpoint": {
+    "yaml_option": ["checkpointsanity"],
+	"hidden": true
+},
+"beginnersilver": {
+    "yaml_option": ["beginnersilversanity"],
+	"hidden": true
+},
+"intsilver": {
+    "yaml_option": ["intermediatesilversanity"],
+	"hidden": true
+},
+"Gym": {
+    "yaml_option": ["gymsanity"]
+}}

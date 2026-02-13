@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "CelesteStrawberryJam",
+  "creator": "TokenOracle",
+  "filler_item_name": "Strawberry",
+  "starting_items": [{"item_categories": ["Access Key"],
+	  "random": 1}]
+}

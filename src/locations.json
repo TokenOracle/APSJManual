@@ -1,0 +1,1710 @@
+[
+
+  {
+    "victory": true,
+    "name": "Blueberry Bay Crystal Heart",
+    "category": ["Blueberry Bay"],
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+  },{
+    "name": "Blueberry Bay Crystal Heart Non-Victory Unlock",
+    "category": ["Blueberry Bay", "Beginner"],
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+  },
+  {
+    "name": "Forest Path Strawberry 1",
+ 
+    "category": ["Beginner","Forest Path"],
+    "requires": "|Forest Path Access Key|"
+  },
+  {
+    "name": "Forest Path Strawberry 2",
+ 
+    "category": ["Beginner","Forest Path"],
+    "requires": "|Forest Path Access Key|"
+  },
+  {
+    "name": "Forest Path Strawberry 3",
+ 
+    "category": ["Beginner","Forest Path"],
+    "requires": "|Forest Path Access Key|"
+  },
+  {
+    "name": "Forest Path Strawberry 4",
+ 
+    "category": ["Beginner","Forest Path"],
+    "requires": "|Forest Path Access Key|"
+  },
+  {
+    "name": "Forest Path Crystal Heart",
+ 
+    "category": ["Beginner","Forest Path"],
+    "requires": "|Forest Path Access Key|"
+  },
+  {
+    "name": "Azure Caverns Strawberry 1",
+ 
+    "category": ["Beginner","Azure Caverns"],
+    "requires": "|Azure Caverns Access Key|"
+  },
+  {
+    "name": "Azure Caverns Strawberry 2",
+ 
+    "category": ["Beginner","Azure Caverns"],
+    "requires": "|Azure Caverns Access Key|"
+  },
+  {
+    "name": "Azure Caverns Crystal Heart",
+ 
+    "category": ["Beginner","Azure Caverns"],
+    "requires": "|Azure Caverns Access Key|"
+  },
+  {
+    "name": "Loopy Lagoon Strawberry 1",
+ 
+    "category": ["Beginner","Loopy Lagoon"],
+    "requires": "|Loopy Lagoon Access Key|"
+  },
+  {
+    "name": "Loopy Lagoon Strawberry 2",
+ 
+    "category": ["Beginner","Loopy Lagoon"],
+    "requires": "|Loopy Lagoon Access Key|"
+  },
+  {
+    "name": "Loopy Lagoon Strawberry 3",
+ 
+    "category": ["Beginner","Loopy Lagoon"],
+    "requires": "|Loopy Lagoon Access Key|"
+  },
+  {
+    "name": "Loopy Lagoon Crystal Heart",
+ 
+    "category": ["Beginner","Loopy Lagoon"],
+    "requires": "|Loopy Lagoon Access Key|"
+  },
+  {
+    "name": "Collapsing Skyline Strawberry 1",
+ 
+    "category": ["Beginner","Collapsing Skyline"],
+    "requires": "|Collapsing Skyline Access Key|"
+  },
+  {
+    "name": "Collapsing Skyline Strawberry 2",
+ 
+    "category": ["Beginner","Collapsing Skyline"],
+    "requires": "|Collapsing Skyline Access Key|"
+  },
+  {
+    "name": "Collapsing Skyline Strawberry 3",
+ 
+    "category": ["Beginner","Collapsing Skyline"],
+    "requires": "|Collapsing Skyline Access Key|"
+  },
+  {
+    "name": "Collapsing Skyline Crystal Heart",
+ 
+    "category": ["Beginner","Collapsing Skyline"],
+    "requires": "|Collapsing Skyline Access Key|"
+  },
+  {
+    "name": "Seeing is Believing Strawberry",
+ 
+    "category": ["Beginner","Seeing is Believing"],
+    "requires": "|Seeing is Believing Access Key|"
+  },
+  {
+    "name": "Seeing is Believing Crystal Heart",
+ 
+    "category": ["Beginner","Seeing is Believing"],
+    "requires": "|Seeing is Believing Access Key|"
+  },
+  {
+    "name": "driveway Strawberry 1",
+    "category": ["Beginner","driveway"],
+    "requires": "|driveway Access Key|"
+  },
+  {
+    "name": "driveway Strawberry 2",
+ 
+    "category": ["Beginner","driveway"],
+    "requires": "|driveway Access Key|"
+  },
+  {
+    "name": "driveway Strawberry 3",
+ 
+    "category": ["Beginner","driveway"],
+    "requires": "|driveway Access Key|"
+  },
+  {
+    "name": "driveway Crystal Heart",
+ 
+    "category": ["Beginner","driveway"],
+    "requires": "|driveway Access Key|"
+  },
+  {
+    "name": "Cassette Cliffs Strawberry 1",
+ 
+    "category": ["Beginner","Cassette Cliffs"],
+    "requires": "|Cassette Cliffs Access Key|"
+  },
+  {
+    "name": "Cassette Cliffs Strawberry 2",
+ 
+    "category": ["Beginner","Cassette Cliffs"],
+    "requires": "|Cassette Cliffs Access Key|"
+  },
+  {
+    "name": "Cassette Cliffs Crystal Heart",
+ 
+    "category": ["Beginner","Cassette Cliffs"],
+    "requires": "|Cassette Cliffs Access Key|"
+  },
+  {
+    "name": "Over the City Strawberry 1",
+ 
+    "category": ["Beginner","Over the City"],
+    "requires": "|Over the City Access Key|"
+  },
+  {
+    "name": "Over the City Strawberry 2",
+ 
+    "category": ["Beginner","Over the City"],
+    "requires": "|Over the City Access Key|"
+  },
+  {
+    "name": "Over the City Strawberry 3",
+ 
+    "category": ["Beginner","Over the City"],
+    "requires": "|Over the City Access Key|"
+  },
+  {
+    "name": "Over the City Crystal Heart",
+ 
+    "category": ["Beginner","Over the City"],
+    "requires": "|Over the City Access Key|"
+  },
+  {
+    "name": "Troposphere Strawberry",
+ 
+    "category": ["Beginner","Troposphere"],
+    "requires": "|Troposphere Access Key|"
+  },
+  {
+    "name": "Troposphere Crystal Heart",
+ 
+    "category": ["Beginner","Troposphere"],
+    "requires": "|Troposphere Access Key|"
+  },
+  {
+    "name": "Potential for Anything Strawberry 1",
+ 
+    "category": ["Beginner","Potential for Anything"],
+    "requires": "|Potential for Anything Access Key|"
+  },
+  {
+    "name": "Potential for Anything Strawberry 2",
+ 
+    "category": ["Beginner","Potential for Anything"],
+    "requires": "|Potential for Anything Access Key|"
+  },
+  {
+    "name": "Potential for Anything Strawberry 3",
+ 
+    "category": ["Beginner","Potential for Anything"],
+    "requires": "|Potential for Anything Access Key|"
+  },
+  {
+    "name": "Potential for Anything Crystal Heart",
+ 
+    "category": ["Beginner","Potential for Anything"],
+    "requires": "|Potential for Anything Access Key|"
+  },
+  {
+    "name": "Midnight Spire Crystal Heart",
+ 
+    "category": ["Beginner","Midnight Spire"],
+    "requires": "|Midnight Spire Access Key|"
+  },
+  {
+    "name": "Midnight Spire Strawberry 1",
+ 
+    "category": ["Beginner","Midnight Spire"],
+    "requires": "|Midnight Spire Access Key|"
+  },
+  {
+    "name": "Midnight Spire Strawberry 2",
+ 
+    "category": ["Beginner","Midnight Spire"],
+    "requires": "|Midnight Spire Access Key|"
+  },
+  {
+    "name": "Midnight Spire Strawberry 3",
+ 
+    "category": ["Beginner","Midnight Spire"],
+    "requires": "|Midnight Spire Access Key|"
+  },
+  {
+    "name": "Midnight Spire Strawberry 4",
+ 
+    "category": ["Beginner","Midnight Spire"],
+    "requires": "|Midnight Spire Access Key|"
+  },
+  {
+    "name": "paint Crystal Heart",
+ 
+    "category": ["Beginner","paint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Strawberry 1",
+ 
+    "category": ["Beginner","paint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Strawberry 2",
+ 
+    "category": ["Beginner","paint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Strawberry 3",
+ 
+    "category": ["Beginner","paint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Strawberry 4",
+ 
+    "category": ["Beginner","paint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+ 
+    "name": "Rose Garden Crystal Heart",
+    "category": ["Beginner","Rose Garden"],
+    "requires": "|Rose Garden Access Key|"
+  },
+  {
+    "name": "Treehive Crystal Heart",
+ 
+    "category": ["Beginner","Treehive"],
+    "requires": "|Treehive Access Key|"
+  },
+  {
+    "name": "Treehive Strawberry 1",
+ 
+    "category": ["Beginner","Treehive"],
+    "requires": "|Treehive Access Key|"
+  },
+  {
+    "name": "Treehive Strawberry 2",
+ 
+    "category": ["Beginner","Treehive"],
+    "requires": "|Treehive Access Key|"
+  },
+  {
+    "name": "The Squeeze Crystal Heart",
+ 
+    "category": ["Beginner","The Squeeze"],
+    "requires": "|The Squeeze Access Key|"
+  },
+  {
+    "name": "The Squeeze Strawberry 1",
+ 
+    "category": ["Beginner","The Squeeze"],
+    "requires": "|The Squeeze Access Key|"
+  },
+  {
+    "name": "The Squeeze Strawberry 2",
+ 
+    "category": ["Beginner","The Squeeze"],
+    "requires": "|The Squeeze Access Key|"
+  },
+  {
+    "name": "Soap Crystal Heart",
+ 
+    "category": ["Beginner","Soap"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Soap Strawberry 1",
+ 
+    "category": ["Beginner","Soap"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Soap Strawberry 2",
+ 
+    "category": ["Beginner","Soap"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Soap Strawberry 3",
+ 
+    "category": ["Beginner","Soap"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Soap Strawberry 4",
+ 
+    "category": ["Beginner","Soap"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Soap Strawberry 5",
+ 
+    "category": ["Beginner","Soap"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Crystal Heart",
+ 
+    "category": ["Beginner","Switchtube Vista"],
+    "requires": "|Switchtube Vista Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Strawberry 1",
+ 
+    "category": ["Beginner","Switchtube Vista"],
+    "requires": "|Switchtube Vista Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Strawberry 2",
+ 
+    "category": ["Beginner","Switchtube Vista"],
+    "requires": "|Switchtube Vista Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Strawberry 3",
+ 
+    "category": ["Beginner","Switchtube Vista"],
+    "requires": "|Switchtube Vista Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Strawberry 4",
+ 
+    "category": ["Beginner","Switchtube Vista"],
+    "requires": "|Switchtube Vista Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Strawberry 5",
+ 
+    "category": ["Beginner","Switchtube Vista"],
+    "requires": "|Switchtube Vista Access Key|"
+  },
+  {
+    "name": "A Gift From the Stars Crystal Heart",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },
+  {
+    "name": "A Gift From the Stars Strawberry 1",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },{
+    "name": "A Gift From the Stars Bonus Key",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },
+  {
+    "name": "A Gift From the Stars Strawberry 2",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },
+  {
+    "name": "A Gift From the Stars Strawberry 3",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },
+  {
+    "name": "A Gift From the Stars Strawberry 4",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },
+  {
+    "name": "A Gift From the Stars Strawberry 5",
+ 
+    "category": ["Beginner","A Gift From the Stars"],
+    "requires": "|A Gift From the Stars Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Crystal Heart",
+ 
+    "category": ["Beginner","Strawberry Orchard"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Strawberry 1",
+ 
+    "category": ["Beginner","Strawberry Orchard"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Strawberry 2",
+ 
+    "category": ["Beginner","Strawberry Orchard"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Strawberry 3",
+ 
+    "category": ["Beginner","Strawberry Orchard"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Strawberry 4",
+ 
+    "category": ["Beginner","Strawberry Orchard"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Strawberry 5",
+ 
+    "category": ["Beginner","Strawberry Orchard"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Dropzle Crystal Heart",
+ 
+    "category": ["Beginner","Dropzle"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Dropzle Strawberry 1",
+ 
+    "category": ["Beginner","Dropzle"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Dropzle Strawberry 2",
+ 
+    "category": ["Beginner","Dropzle"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Dropzle Strawberry 3",
+ 
+    "category": ["Beginner","Dropzle"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Dropzle Strawberry 4",
+ 
+    "category": ["Beginner","Dropzle"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Dropzle Strawberry 5",
+ 
+    "category": ["Beginner","Dropzle"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Coresaken City Crystal Heart",
+ 
+    "category": ["Beginner","Coresaken City"],
+    "requires": "|Coresaken City Access Key|"
+  },
+  {
+    "name": "Coresaken City Strawberry 1",
+ 
+    "category": ["Beginner","Coresaken City"],
+    "requires": "|Coresaken City Access Key|"
+  },
+  {
+    "name": "Coresaken City Strawberry 2",
+ 
+    "category": ["Beginner","Coresaken City"],
+    "requires": "|Coresaken City Access Key|"
+  },
+  {
+    "name": "Coresaken City Strawberry 3",
+ 
+    "category": ["Beginner","Coresaken City"],
+    "requires": "|Coresaken City Access Key|"
+  },
+  {
+    "name": "View Forest Path",
+    
+    "category": ["Beginner","Lobby", "Forest Path"],
+    "requires": ""
+  },
+  {
+    "name": "View Azure Caverns",
+    
+    "category": ["Beginner","Lobby", "Azure Caverns"],
+    "requires": ""
+  },
+  {
+    "name": "View Loopy Lagoon",
+    
+    "category": ["Beginner","Lobby", "Loopy Lagoon"],
+    "requires": ""
+  },
+  {
+    "name": "View Collapsing Skyline",
+    
+    "category": ["Beginner","Lobby", "Collapsing Skyline"],
+    "requires": ""
+  },
+  {
+    "name": "View Seeing is Believing",
+    
+    "category": ["Beginner","Lobby", "Seeing is Believing"],
+    "requires": ""
+  },
+  {
+    "name": "View driveway",
+    
+    "category": ["Beginner","Lobby", "driveway"],
+    "requires": ""
+  },
+  {
+    "name": "View Cassette Cliffs",
+    
+    "category": ["Beginner","Lobby", "Cassette Cliffs"],
+    "requires": ""
+  },
+  {
+    "name": "View Over the City",
+    
+    "category": ["Beginner","Lobby", "Over the City"],
+    "requires": ""
+  },
+  {
+    "name": "View Troposphere",
+    
+    "category": ["Beginner","Lobby", "Troposphere"],
+    "requires": ""
+  },
+  {
+    "name": "View Potential for Anything",
+    
+    "category": ["Beginner","Lobby", "Potential for Anything"],
+    "requires": ""
+  },
+  {
+    "name": "View Midnight Spire",
+    
+    "category": ["Beginner","Lobby", "Midnight Spire"],
+    "requires": ""
+  },
+  {
+    "name": "View paint",
+    
+    "category": ["Beginner","Lobby", "paint"],
+    "requires": ""
+  },
+  {
+    "name": "View Rose Garden",
+    
+    "category": ["Beginner","Lobby", "Rose Garden"],
+    "requires": ""
+  },
+  {
+    "name": "View Treehive",
+    "category": ["Beginner","Lobby", "Treehive"],
+    "requires": ""
+  },
+  {
+    "name": "View The Squeeze",
+    
+    "category": ["Beginner","Lobby", "The Squeeze"],
+    "requires": ""
+  },
+  {
+    "name": "View Soap",
+    
+    "category": ["Beginner","Lobby", "Soap"],
+    "requires": ""
+  },
+  {
+    "name": "View Switchtube Vista",
+    
+    "category": ["Beginner","Lobby", "Switchtube Vista"],
+    "requires": ""
+  },
+  {
+    "name": "View A Gift From the Stars",
+    
+    "category": ["Beginner","Lobby", "A Gift From the Stars"],
+    "requires": ""
+  },
+  {
+    "name": "View Strawberry Orchard",
+    
+    "category": ["Beginner","Lobby", "Strawberry Orchard"],
+    "requires": ""
+  },
+  {
+    "name": "View Dropzle",
+    
+    "category": ["Beginner","Lobby", "Dropzle"],
+    "requires": ""
+  },
+  {
+    "name": "View Coresaken City",
+    
+    "category": ["Beginner","Lobby", "Coresaken City"],
+    "requires": ""
+  },
+  {
+    "name": "View Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Lobby"],
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 21",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 20",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 19",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 18",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 17",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)\n"
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 16",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 15",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 14",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 13",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 12",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 11",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 10",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 9",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 8",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 7",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 6",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 5",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 4",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 3",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 2",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Blueberry Bay Checkpoint 1",
+    "region": "Blueberry Bay",
+    "category": ["Beginner","Blueberry Bay","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Prologue Complete",
+    "requires": ""
+	"place_item_category": ["Access Key"]
+  },{
+    "name": "Dream Grab Gym",
+    "category": ["Beginner","Gym"],
+	"requires": ""
+  },
+  {
+    "name": "Dream Jump Gym",
+    "category": ["Beginner","Gym"],
+	"requires": ""
+  },
+  {
+    "name": "Cloud Jump Gym",
+    "category": ["Beginner","Gym"],
+	"requires": ""
+  },
+  {
+    "name": "Theo Basics Gym",
+    "category": ["Beginner","Gym"],
+	"requires": ""
+  },
+  {
+    "name": "Oceanfront Bench",
+    "category": ["Beginner","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Bamboo Forest Bench",
+    "category": ["Beginner","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Pinwheel Bay Bench",
+    "category": ["Beginner","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Shrine Entrance Bench",
+    "category": ["Beginner","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Tidepools Bench",
+    "category": ["Beginner","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Eroded Passage Bench",
+    "category": ["Beginner","Lobby", "Bench"],
+	"requires": ""
+  },{
+    "name": "View Sleeping Under Stars",
+    "category": ["Intermediate","Lobby", "Sleeping Under Stars"],
+	"requires": ""
+  },
+  {
+    "name": "View Frosted Fragments",
+    "category": ["Intermediate","Lobby", "Frosted Fragments"],
+	"requires": ""
+  },
+  {
+    "name": "View Fifth Dimension",
+    "category": ["Intermediate","Lobby", "Fifth Dimension"],
+	"requires": ""
+  },
+  {
+    "name": "View LowG Botany",
+    "category": ["Intermediate","Lobby", "LowG Botany"],
+	"requires": ""
+  },
+  {
+    "name": "View Sea of Soup",
+    "category": ["Intermediate","Lobby", "Sea of Soup"],
+	"requires": ""
+  },
+  {
+    "name": "View Vertigo",
+    "category": ["Intermediate","Lobby", "Vertigo"],
+	"requires": ""
+  },
+  {
+    "name": "View EAT GIRL",
+    "category": ["Intermediate","Lobby", "EAT GIRL"],
+	"requires": ""
+  },
+  {
+    "name": "View Honeyzip Inc.",
+    "category": ["Intermediate","Lobby", "Honeyzip Inc."],
+	"requires": ""
+  },
+  {
+    "name": "View In Filtration",
+    "category": ["Intermediate","Lobby", "In Filtration"],
+	"requires": ""
+  },
+  {
+    "name": "View Supernautica",
+    "category": ["Intermediate","Lobby", "Supernautica"],
+	"requires": ""
+  },
+  {
+    "name": "View The Tower",
+    "category": ["Intermediate","Lobby", "The Tower"],
+	"requires": ""
+  },
+  {
+    "name": "View Construction Conundrum",
+    "category": ["Intermediate","Lobby", "Construction Conundrum"],
+	"requires": ""
+  },
+  {
+    "name": "View Square the Circle",
+    "category": ["Intermediate","Lobby", "Square the Circle"],
+	"requires": ""
+  },
+  {
+    "name": "View Deep Blue",
+    "category": ["Intermediate","Lobby", "Deep Blue"],
+	"requires": ""
+  },
+  {
+    "name": "View Temple of a Thousand Skies",
+    "category": ["Intermediate","Lobby", "Temple of a Thousand Skies"],
+	"requires": ""
+  },
+  {
+    "name": "View Midnight Monsoon",
+    "category": ["Intermediate","Lobby", "Midnight Monsoon"],
+	"requires": ""
+  },
+  {
+    "name": "View Pufferfish Transportation Co.",
+    "category": ["Intermediate","Lobby", "Pufferfish Transportation Co."],
+	"requires": ""
+  },
+  {
+    "name": "View Pointless Machines",
+    "category": ["Intermediate","Lobby", "Pointless Machines"],
+	"requires": ""
+  },
+    {"name": "View Raspberry Roots",
+    "category": ["Intermediate","Lobby", "Raspberry Roots"],
+	"requires": "(|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart|AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart|AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart|AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart|AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart|AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart|AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|)"
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 18",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 17",
+    "region": "Raspberry Roots",
+    "category": ["Checkpoint", "Intermediate","Raspberry Roots"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 16",
+    "region": "Raspberry Roots",
+    "category": ["Checkpoint","Intermediate","Raspberry Roots"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 15",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 14",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 13",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 12",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 11",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 10",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  }
+  ,
+  {
+    "name": "Raspberry Roots Checkpoint 9",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 8",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 7",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 6",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 5",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 4",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 3",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 2",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },
+  {
+    "name": "Raspberry Roots Checkpoint 1",
+    "region": "Raspberry Roots",
+    "category": ["Intermediate","Raspberry Roots","Checkpoint"],
+    "requires": ""
+  },{
+    "victory": true,
+    "name": "Raspberry Roots Crystal Heart",
+    "category": ["Raspberry Roots"],
+    "requires": "|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart|AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart|AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart|AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart|AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart|AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart|AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|"
+  },{
+    "name": "Raspberry Roots Crystal Heart Non-Victory Unlock",
+    "category": ["Raspberry Roots", "Intermediate"],
+    "requires": "|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart|AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart|AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart|AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart|AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart|AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart|AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|"
+  },
+  {
+    "name": "Sleeping Under Stars Strawberry 1",
+    "category": ["Intermediate","Sleeping Under Stars"],
+    "requires": "|Sleeping Under Stars Access Key|"
+  },
+  {
+    "name": "Sleeping Under Stars Crystal Heart",
+    "category": ["Intermediate","Sleeping Under Stars"],
+    "requires": "|Sleeping Under Stars Access Key|"
+  },
+  {
+    "name": "Frosted Fragments Crystal Heart",
+    "category": ["Intermediate","Frosted Fragments"],
+    "requires": "|Frosted Fragments Access Key|"
+  },
+  {
+    "name": "Frosted Fragments Strawberry 1",
+    "category": ["Intermediate","Frosted Fragments"],
+    "requires": "|Frosted Fragments Access Key|"
+  },
+  {
+    "name": "Frosted Fragments Strawberry 2",
+    "category": ["Intermediate","Frosted Fragments"],
+    "requires": "|Frosted Fragments Access Key|"
+  },
+  {
+    "name": "Fifth Dimension Crystal Heart",
+    "category": ["Intermediate","Fifth Dimension"],
+    "requires": "|Fifth Dimension Access Key|"
+  },
+  {
+    "name": "LowG Botany Crystal Heart",
+    "category": ["Intermediate","LowG Botany"],
+    "requires": "|LowG Botany Access Key|"
+  },
+  {
+    "name": "LowG Botany Strawberry 1",
+    "category": ["Intermediate","LowG Botany"],
+    "requires": "|LowG Botany Access Key|"
+  },
+  {
+    "name": "LowG Botany Strawberry 2",
+    "category": ["Intermediate","LowG Botany"],
+    "requires": "|LowG Botany Access Key|"
+  },
+  {
+    "name": "LowG Botany Strawberry 3",
+    "category": ["Intermediate","LowG Botany"],
+    "requires": "|LowG Botany Access Key|"
+  },
+  {
+    "name": "Sea of Soup Crystal Heart",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Sea of Soup Access Key|"
+  },
+  {
+    "name": "Sea of Soup Strawberry 1",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Sea of Soup Access Key|"
+  },
+  {
+    "name": "Sea of Soup Strawberry 2",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Sea of Soup Access Key|"
+  },
+  {
+    "name": "Sea of Soup Strawberry 3",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Sea of Soup Access Key|"
+  },
+  {
+    "name": "Sea of Soup Strawberry 4",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Sea of Soup Access Key|"
+  },
+  {
+    "name": "Sea of Soup Strawberry 5",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Sea of Soup Access Key|"
+  },
+  {
+    "name": "Vertigo Crystal Heart",
+    "category": ["Intermediate","Vertigo"],
+    "requires": "|Vertigo Access Key|"
+  },
+  {
+    "name": "EAT GIRL Crystal Heart",
+    "category": ["Intermediate","EAT GIRL"],
+    "requires": "|EAT GIRL Access Key|"
+  },
+  {
+    "name": "EAT GIRL Strawberry 1",
+    "category": ["Intermediate","EAT GIRL"],
+    "requires": "|EAT GIRL Access Key|"
+  },
+  {
+    "name": "EAT GIRL Strawberry 2",
+    "category": ["Intermediate","EAT GIRL"],
+    "requires": "|EAT GIRL Access Key|"
+  },
+  {
+    "name": "Honeyzip Inc. Crystal Heart",
+    "category": ["Intermediate","Honeyzip Inc."],
+    "requires": "|Honeyzip Inc. Access Key|"
+  },
+  {
+    "name": "Honeyzip Inc. Strawberry 1",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|Honeyzip Inc. Access Key|"
+  },
+  {
+    "name": "Honeyzip Inc. Strawberry 2",
+    "category": ["Intermediate","Honeyzip Inc."],
+    "requires": "|Honeyzip Inc. Access Key|"
+  },
+  {
+    "name": "Honeyzip Inc. Strawberry 3",
+    "category": ["Intermediate","Honeyzip Inc."],
+    "requires": "|LowG Botany Access Key|"
+  },
+  {
+    "name": "In Filtration Strawberry 1",
+    "category": ["Intermediate","In Filtration"],
+    "requires": "|In Filtration Access Key|"
+  },
+  {
+    "name": "In Filtration Strawberry 2",
+    "category": ["Intermediate","In Filtration"],
+    "requires": "|In Filtration Access Key|"
+  },
+  {
+    "name": "In Filtration Strawberry 3",
+    "category": ["Intermediate","Sea of Soup"],
+    "requires": "|In Filtration Access Key|"
+  },
+  {
+    "name": "In Filtration Strawberry 4",
+    "category": ["Intermediate","In Filtration"],
+    "requires": "|In Filtration Access Key|"
+  },
+  {
+    "name": "In Filtration Strawberry 5",
+    "category": ["Intermediate","In Filtration"],
+    "requires": "|In Filtration Access Key|"
+  },
+  {
+    "name": "In Filtration Crystal Heart",
+    "category": ["Intermediate","In Filtration"],
+    "requires": "|In Filtration Access Key|"
+  },
+  {
+    "name": "Supernautica Crystal Heart",
+    "category": ["Intermediate","Supernautica"],
+    "requires": "|Supernautica Access Key|"
+  },
+  {
+    "name": "Supernautica Strawberry 1",
+    "category": ["Intermediate","Supernautica"],
+    "requires": "|Supernautica Access Key|"
+  },
+  {
+    "name": "Supernautica Strawberry 2",
+    "category": ["Intermediate","Supernautica"],
+    "requires": "|Supernautica Access Key|"
+  },
+  {
+    "name": "The Tower Crystal Heart",
+    "category": ["Intermediate","The Tower"],
+    "requires": "|The Tower Access Key|"
+  },
+  {
+    "name": "The Tower Strawberry 1",
+    "category": ["Intermediate","The Tower"],
+    "requires": "|The Tower Access Key|"
+  },
+  {
+    "name": "The Tower Strawberry 2",
+    "category": ["Intermediate","The Tower"],
+    "requires": "|The Tower Access Key|"
+  },
+  {
+    "name": "The Tower Strawberry 3",
+    "category": ["Intermediate","The Tower"],
+    "requires": "|The Tower Access Key|"
+  },
+  {
+    "name": "Construction Conundrum Crystal Heart",
+    "category": ["Intermediate","Construction Conundrum"],
+    "requires": "|Construction Conundrum Access Key|"
+  },
+  {
+    "name": "Construction Conundrum Strawberry 1",
+    "category": ["Intermediate","Construction Conundrum"],
+    "requires": "|Construction Conundrum Access Key|"
+  },
+  {
+    "name": "Construction Conundrum Strawberry 2",
+    "category": ["Intermediate","Construction Conundrum"],
+    "requires": "|Construction Conundrum Access Key|"
+  },
+  {
+    "name": "Square the Circle Strawberry 1",
+    "category": ["Intermediate","Square the Circle"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Square the Circle Strawberry 2",
+    "category": ["Intermediate","Square the Circle"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Square the Circle Strawberry 3",
+    "category": ["Intermediate","Square the Circle"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Square the Circle Strawberry 4",
+    "category": ["Intermediate","Square the Circle"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Square the Circle Strawberry 5",
+    "category": ["Intermediate","Square the Circle"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Square the Circle Crystal Heart",
+    "category": ["Intermediate","Square the Circle"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Deep Blue Crystal Heart",
+    "category": ["Intermediate","Deep Blue"],
+    "requires": "|Deep Blue Access Key|"
+  },
+  {
+    "name": "Deep Blue Strawberry 1",
+    "category": ["Intermediate","Deep Blue"],
+    "requires": "|Deep Blue Access Key|"
+  },
+  {
+    "name": "Deep Blue Strawberry 2",
+    "category": ["Intermediate","The Tower"],
+    "requires": "|Deep Blue Access Key|"
+  },
+  {
+    "name": "Deep Blue Strawberry 3",
+    "category": ["Intermediate","Deep Blue"],
+    "requires": "|Deep Blue Access Key|"
+  },{
+    "name": "Temple of a Thousand Skies Crystal Heart",
+    "category": ["Intermediate","Temple of a Thousand Skies"],
+    "requires": "|Temple of a Thousand Skies Access Key|"
+  },
+  {
+    "name": "Temple of a Thousand Skies Strawberry 1",
+    "category": ["Intermediate","Temple of a Thousand Skies"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Temple of a Thousand Skies Strawberry 2",
+    "category": ["Intermediate","Temple of a Thousand Skies"],
+    "requires": "|Temple of a Thousand Skies Access Key|"
+  },
+  {
+    "name": "Temple of a Thousand Skies Strawberry 3",
+    "category": ["Intermediate","Temple of a Thousand Skiese"],
+    "requires": "|Temple of a Thousand Skies Access Key|"
+  },
+  {
+    "name": "Temple of a Thousand Skies Strawberry 4",
+    "category": ["Intermediate","Temple of a Thousand Skies"],
+    "requires": "|Temple of a Thousand Skies Access Key|"
+  },{
+    "name": "Midnight Monsoon Crystal Heart",
+    "category": ["Intermediate","Midnight Monsoon"],
+    "requires": "|Midnight Monsoon Access Key|"
+  },
+  {
+    "name": "Midnight Monsoon Strawberry 1",
+    "category": ["Intermediate","Midnight Monsoon"],
+    "requires": "|Midnight Monsoon Access Key|"
+  },
+  {
+    "name": "Midnight Monsoon Strawberry 2",
+    "category": ["Intermediate","Midnight Monsoon"],
+    "requires": "|Square the Circle Access Key|"
+  },
+  {
+    "name": "Midnight Monsoon Strawberry 3",
+    "category": ["Intermediate","Midnight Monsoon"],
+    "requires": "|Midnight Monsoon Access Key|"
+  },
+  {
+    "name": "Pufferfish Transportation Co. Strawberry 1",
+    "category": ["Intermediate","Pufferfish Transportation Co."],
+    "requires": "|Pufferfish Transportation Co. Access Key|"
+  },
+  {
+    "name": "Pufferfish Transportation Co. Strawberry 2",
+    "category": ["Intermediate","Pufferfish Transportation Co."],
+    "requires": "|Pufferfish Transportation Co. Access Key|"
+  },
+  {
+    "name": "Pufferfish Transportation Co. Strawberry 3",
+    "category": ["Intermediate","Pufferfish Transportation Co."],
+    "requires": "|Pufferfish Transportation Co. Access Key|"
+  },
+  {
+    "name": "Pufferfish Transportation Co. Strawberry 4",
+    "category": ["Intermediate","Pufferfish Transportation Co."],
+    "requires": "|Pufferfish Transportation Co. Access Key|"
+  },
+  {
+    "name": "Pufferfish Transportation Co. Strawberry 5",
+    "category": ["Intermediate","Pufferfish Transportation Co."],
+    "requires": "|Pufferfish Transportation Co. Access Key|"
+  },
+  {
+    "name": "Pufferfish Transportation Co. Crystal Heart",
+    "category": ["Intermediate","Pufferfish Transportation Co."],
+    "requires": "|Pufferfish Transportation Co. Access Key|"
+  },
+  {
+    "name": "Pointless Machines Strawberry 1",
+    "category": ["Intermediate","Pointless Machines"],
+    "requires": "|Pointless Machines Access Key|"
+  },
+  {
+    "name": "Pointless Machines Strawberry 2",
+    "category": ["Intermediate","Pointless Machines"],
+    "requires": "|Pointless Machines Access Key|"
+  },
+  {
+    "name": "Pointless Machines Crystal Heart",
+    "category": ["Intermediate","Pointless Machines"],
+    "requires": "|Pointless Machines Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 7",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 6",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 5",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 4",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 3",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 2",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "paint Checkpoint 1",
+    "category": ["Beginner","paint", "Checkpoint"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "Wallbounce Gym",
+    "category": ["Intermediate","gym"]
+  },
+  {
+    "name": "Hyper Gym",
+    "category": ["Intermediate","gym"]
+  },
+  {
+    "name": "Fast Bubble Gym",
+    "category": ["Intermediate","gym"]
+  },
+  {
+    "name": "Super Gym",
+    "category": ["Intermediate","gym"]
+  },
+  {
+    "name": "Jelly Regrab Gym",
+    "category": ["Intermediate","gym"]
+  },
+  {
+    "name": "Holdable Lift Gym",
+    "category": ["Intermediate","gym"]
+  },
+  {
+    "name": "Neutral Drop Gym",
+    "category": ["Intermediate","gym"]
+  },
+
+  {
+    "name": "Heart of the Woods Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Mineshaft Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Firefly Domain Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Moisty Caves Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Subterranean Forest Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Abandoned Quarry Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"requires": ""
+  },
+  {
+    "name": "Crystal Hearts Origin Bench",
+    "category": ["Intermediate","Lobby", "Bench"],
+	"region": "Raspberry Roots" 
+	},
+  {
+    "name": "Forest Path Silver Berry",
+ 
+    "category": ["Beginner","Forest Path", "beginnersilver"],
+    "requires": "|Forest Path Access Key|"
+  },
+  {
+    "name": "Loopy Lagoon Silver Berry",
+ 
+    "category": ["Beginner","Loopy Lagoon", "beginnersilver"],
+    "requires": "|Loopy Lagoon Access Key|"
+  },
+  {
+    "name": "Azure Caverns Silver Berry",
+ 
+    "category": ["Beginner","Azure Caverns", "beginnersilver"],
+    "requires": "|Azure Caverns  Access Key|"
+  },
+  {
+    "name": "Midnight Spire Silver Berry",
+ 
+    "category": ["Beginner","Forest Path", "beginnersilver"],
+    "requires": "|Midnight Spire Access Key|"
+  },
+  {
+    "name": "Cassette Cliffs Silver Berry",
+ 
+    "category": ["Beginner","Forest Path", "beginnersilver"],
+    "requires": "|Cassette Cliffs Access Key|"
+  },
+  {
+    "name": "driveway Silver Berry",
+ 
+    "category": ["Beginner","driveway", "beginnersilver"],
+    "requires": "|driveway Access Key|"
+  },
+  {
+    "name": "Seeing is Believing Silver Berry",
+ 
+    "category": ["Beginner","Seeing is Believing", "beginnersilver"],
+    "requires": "|Seeing is Believing  Access Key|"
+  },
+  {
+    "name": "Dropzle Silver Berry",
+ 
+    "category": ["Beginner","Dropzle", "beginnersilver"],
+    "requires": "|Dropzle Access Key|"
+  },
+  {
+    "name": "Treehive Silver Berry",
+ 
+    "category": ["Beginner","Treehive", "beginnersilver"],
+    "requires": "|Treehive Access Key|"
+  },
+  {
+    "name": "The Squeeze Silver Berry",
+ 
+    "category": ["Beginner","The Squeeze", "beginnersilver"],
+    "requires": "|The Squeeze Access Key|"
+  },
+  {
+    "name": "Soap Silver Berry",
+ 
+    "category": ["Beginner","Soap", "beginnersilver"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Rose Garden Silver Berry",
+ 
+    "category": ["Beginner","Rose Garden", "beginnersilver"],
+    "requires": "|Rose Garden Access Key|"
+  },
+  {
+    "name": "Potential for Anything Silver Berry",
+ 
+    "category": ["Beginner","Potential for Anything", "beginnersilver"],
+    "requires": "|Potential for Anything Access Key|"
+  },
+  {
+    "name": "Collapsing Skyline Silver Berry",
+ 
+    "category": ["Beginner","Collapsing Skyline", "beginnersilver"],
+    "requires": "|Collapsing Skyline Access Key|"
+  },
+  {
+    "name": "A Gift from the Stars Silver Berry",
+ 
+    "category": ["Beginner","A Gift from the Stars", "beginnersilver"],
+    "requires": "|A Gift from the Stars Access Key|"
+  },
+  {
+    "name": "Troposphere Silver Berry",
+ 
+    "category": ["Beginner","Troposphere", "beginnersilver"],
+    "requires": "|Troposphere Access Key|"
+  },
+  {
+    "name": "Coresaken City Silver Berry",
+ 
+    "category": ["Beginner","Coresaken City", "beginnersilver"],
+    "requires": "|Coresaken City Access Key|"
+  },
+  {
+    "name": "paint Silver Berry",
+ 
+    "category": ["Beginner","paint", "beginnersilver"],
+    "requires": "|paint Access Key|"
+  },
+  {
+    "name": "Strawberry Orchard Silver Berry",
+ 
+    "category": ["Beginner","Strawberry Orchard", "beginnersilver"],
+    "requires": "|Strawberry Orchard Access Key|"
+  },
+  {
+    "name": "Switchtube Vista Silver Berry",
+ 
+    "category": ["Beginner","Switchtube Vista", "beginnersilver"],
+    "requires": "|Soap Access Key|"
+  },
+  {
+    "name": "Over the City Silver Berry",
+ 
+    "category": ["Beginner","Over the Ciry", "beginnersilver"],
+    "requires": "|Over the Ciry Access Key|"
+  },{
+    "name": "Blueberry Bay Silver Berry",
+    "category": ["Blueberry Bay", "Beginner", "beginnersilver"],
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+  },
+  {
+    "name": "Frosted Fragments Silver Berry",
+    "category": ["Intermediate","intsilver", "Frosted Fragments"],
+	"requires": ""
+  },
+  {
+    "name": "Fifth Dimension Silver Berry",
+    "category": ["Intermediate","intsilver", "Fifth Dimension"],
+	"requires": ""
+  },
+  {
+    "name": "LowG Botany Silver Berry",
+    "category": ["Intermediate","intsilver", "LowG Botany"],
+	"requires": ""
+  },
+  {
+    "name": "Sea of Soup Silver Berry",
+    "category": ["Intermediate","intsilver", "Sea of Soup"],
+	"requires": ""
+  },
+  {
+    "name": "Vertigo Silver Berry",
+    "category": ["Intermediate","intsilver", "Vertigo"],
+	"requires": ""
+  },
+  {
+    "name": "EAT GIRL Silver Berry",
+    "category": ["Intermediate","intsilver", "EAT GIRL"],
+	"requires": ""
+  },
+  {
+    "name": "Honeyzip Inc. Silver Berry",
+    "category": ["Intermediate","intsilver", "Honeyzip Inc."],
+	"requires": ""
+  },
+  {
+    "name": "In Filtration Silver Berry",
+    "category": ["Intermediate","intsilver", "In Filtration"],
+	"requires": ""
+  },
+  {
+    "name": "Supernautica Silver Berry",
+    "category": ["Intermediate","intsilver", "Supernautica"],
+	"requires": ""
+  },
+  {
+    "name": "The Tower Silver Berry",
+    "category": ["Intermediate","intsilver", "The Tower"],
+	"requires": ""
+  },
+  {
+    "name": "Construction Conundrum Silver Berry",
+    "category": ["Intermediate","intsilver", "Construction Conundrum"],
+	"requires": ""
+  },
+  {
+    "name": "Square the Circle Silver Berry",
+    "category": ["Intermediate","intsilver", "Square the Circle"],
+	"requires": ""
+  },
+  {
+    "name": "Deep Blue Silver Berry",
+    "category": ["Intermediate","intsilver", "Deep Blue"],
+	"requires": ""
+  },
+  {
+    "name": "Temple of a Thousand Skies Silver Berry",
+    "category": ["Intermediate","intsilver", "Temple of a Thousand Skies"],
+	"requires": ""
+  },
+  {
+    "name": "Midnight Monsoon Silver Berry",
+    "category": ["Intermediate","intsilver", "Midnight Monsoon"],
+	"requires": ""
+  },
+  {
+    "name": "Pufferfish Transportation Co. Silver Berry",
+    "category": ["Intermediate","intsilver", "Pufferfish Transportation Co."],
+	"requires": ""
+  },
+  {
+    "name": "Pointless Machines Silver Berry",
+    "category": ["Intermediate","intsilver", "Pointless Machines"],
+	"requires": ""
+  },
+    {"name": "Raspberry Roots Silver Berry",
+    "category": ["Intermediate","intsilver", "Raspberry Roots"],
+	"requires": "(|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart|AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart|AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart|AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart|AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart|AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart|AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|)"
+  },
+]
