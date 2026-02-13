@@ -1,9 +1,31 @@
-{
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
-        "hidden": true
-    },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
-    }
-}
+{"Intermediate": {
+    "yaml_option": ["enable_intermediate"],
+	"hidden": true
+},
+"Beginner": {
+    "yaml_option": ["enable_beginner"],
+	"hidden": true
+},
+"Advanced": {
+    "yaml_option": ["enable_advanced"],
+	"hidden": true
+},
+"Lobby": {
+    "yaml_option": ["lobbysanity"],
+	"hidden": true
+},
+"Checkpoint": {
+    "yaml_option": ["checkpointsanity"],
+	"hidden": true
+},
+"beginnersilver": {
+    "yaml_option": ["beginnersilversanity"],
+	"hidden": true
+},
+"intsilver": {
+    "yaml_option": ["intermediatesilversanity"],
+	"hidden": true
+},
+"Gym": {
+    "yaml_option": ["gymsanity"]
+}}
