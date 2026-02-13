@@ -1,18 +1,19 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
-        "starting": true
-    },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
-        "exit_requires": {
-            "Third Region": "|@Characters:5|"
-        }
-    },
-    "Third Region": {
-        "connects_to": []
-    }
+  "Blueberry Bay": {
+    "connects_to": [],
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)\n"
+  },
+  "Green Difficulty": {
+    "requires": ""
+  },
+  "Yellow Difficulty": {
+    "connects_to": []
+  },
+  "Red Difficulty": {
+    "connects_to": []
+  },
+  "Raspberry Roots": {
+    "connects_to": [],
+    "requires": "(|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart| AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart| AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart| AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart| AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart| AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart| AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|)"
+  }
 }

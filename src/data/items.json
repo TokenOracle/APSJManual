@@ -3,13 +3,19 @@
   {
     "count": 1,
     "name": "Forest Path Crystal Heart",
-    "category": ["Beginner","Crystal Heart"],
+    "category": [
+"Beginner",
+      "Crystal Heart"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Azure Caverns Crystal Heart",
-    "category": ["Beginner","Crystal Heart"],
+    "category": [
+"Beginner",
+      "Crystal Heart"
+    ],
     "progression": true
   },
   {

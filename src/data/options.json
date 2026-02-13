@@ -19,21 +19,70 @@
             "values": {
                 "recommended": 20
             }
-        }
+        },
+		
+		"enable_beginner":{
+            "description": [
+                "Does the Beginner Lobby count for checks and items?",
+				"Note: MAKE SURE YOU HAVE THIS ON IF YOUR GOAL IS BLUEBERRY BAY, as your crystals are labelled Beginner items.!"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
+        },
+		
+		"enable_intermediate":{
+            "description": [
+                "Does the Intermediate Lobby count for checks and items?",
+				"Note: Rasberry Roots requires Intermediate Map Crystals. Enable if your End Objective is Rasberry Roots to maintain a valid seed or something like that."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
     },
     "user": {
         "_commented_out_option":{
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "beginnersilversanity":{
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Do Silver Berries in Beginner Lobby count as locations?"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Game Options"
+        },"intermediatesilversanity":{
+            "description": [
+                "Do Silver Berries in Intermediate Lobby count as locations?"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+		"gymsanity":{
+            "description": [
+                "Do Gyms count as Locations?"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
+        },
+		"lobbysanity":{
+            "description": [
+                "Does each Lobby include Locations or are Locations purely in levels?"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
+        },"checkpointsanity":{
+            "description": [
+                "Do Flag Checkpoints count as Locations (mostly just means checks in Heartsides and paint)?"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
         },
         "Example_Choice":{
             "type": "Choice",
@@ -61,7 +110,7 @@
             ],
             "range_start": 0,
             "default": 1,
-            "range_end": 5,
+            "range_end": 10,
             "values": {"example": 2},
             "group": "Example Options"
         },
