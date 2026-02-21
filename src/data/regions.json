@@ -1,7 +1,7 @@
 {
   "Blueberry Bay": {
     "connects_to": [],
-    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)\n"
+    "requires": "(|@Crystal Heart:21|OR|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)\n"
   },
   "Green Difficulty": {
     "requires": ""

@@ -19,7 +19,7 @@
     "enable_beginner": {
       "description": [
         "Does the Beginner Lobby count for checks and items?",
-        "Note: MAKE SURE YOU HAVE THIS ON IF YOUR GOAL IS BLUEBERRY BAY, as your crystals are labelled Beginner items.!"
+        "Note: Blueberry Bay and its golden requires Beginner Map Crystals, and Beginner Rainbow Berry requires Beginner Map Access Keys. You need 21 Crystals from any lobby to unlock Blueberry Bay - it's highly recommended to have this option on when playing with any Blueberry Bay ending, but technically not required if you use other lobby hearts."
       ],
       "type": "Toggle",
       "default": true,
@@ -28,7 +28,7 @@
     "enable_intermediate": {
       "description": [
         "Does the Intermediate Lobby count for checks and items?",
-        "Note: Rasberry Roots requires Intermediate Map Crystals. Enable if your End Objective is Rasberry Roots to maintain a valid seed or something like that."
+        "Note: Rasberry Roots requires Intermediate Map Crystals, and Intermediate Rainbow Berry requires Intermediate Map Access Keys."
       ],
       "type": "Toggle",
       "default": false,
@@ -36,7 +36,7 @@
     },"enable_advanced": {
       "description": [
         "Does the Advanced Lobby count for checks and items?",
-        "Note: Advanced Lobby's Heartside requires Advanced Map Crystals. Enable if your End Objective is ??? to maintain a valid seed or something like that."
+        "Note: Magno Mesa requires Advanced Map Crystals. Enable if your End Objective is ??? to maintain a valid seed or something like that."
       ],
       "type": "Toggle",
       "default": false,
@@ -44,7 +44,8 @@
     },
     "beginnersilversanity": {
       "description": [
-        "Do Silver Berries in Beginner Lobby count as locations?"
+        "Do Silver Berries in Beginner Lobby count as locations?",
+		"Recommended, but not required for Beginner Rainbow Berry Completion"
       ],
       "type": "Toggle",
       "default": false,
@@ -52,7 +53,8 @@
     },
     "intermediatesilversanity": {
       "description": [
-        "Do Silver Berries in Intermediate Lobby count as locations?"
+        "Do Silver Berries in Intermediate Lobby count as locations?",
+		"Recommended, but not required for Intermediate Rainbow Berry Completion"
       ],
       "type": "Toggle",
       "default": false,

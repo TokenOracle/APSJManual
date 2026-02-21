@@ -5,7 +5,15 @@
     "category": [
       "Blueberry Bay"
     ],
-    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+    "region": "Blueberry Bay"
+  },
+  {
+    "victory": true,
+    "name": "Blueberry Bay Golden",
+    "category": [
+      "Blueberry Bay"
+    ],
+    "region": "Blueberry Bay"
   },
   {
     "name": "Blueberry Bay Crystal Heart Non-Victory Unlock",
@@ -13,7 +21,7 @@
       "Blueberry Bay",
       "Beginner"
     ],
-    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+    "region": "Blueberry Bay"
   },
   {
     "name": "Forest Path Strawberry 1",
@@ -907,7 +915,7 @@
       "Blueberry Bay",
       "Lobby"
     ],
-    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+    "region": "Blueberry Bay"
   },
   {
     "name": "Blueberry Bay Checkpoint 21",
@@ -957,7 +965,7 @@
       "Blueberry Bay",
       "Checkpoint"
     ],
-    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)\n"
+    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)\n"
   },
   {
     "name": "Blueberry Bay Checkpoint 16",
@@ -1121,7 +1129,10 @@
   },
   {
     "name": "Prologue Complete",
-    "place_item_category": ["Access Key"]},
+    "place_item_category": [
+      "Access Key"
+    ]
+  },
   {
     "name": "Dream Grab Gym",
     "category": [
@@ -2484,13 +2495,13 @@
     "requires": "|Over the City Access Key|"
   },
   {
-    "name": "Blueberry Bay Silver Berry",
+    "name": "Blueberry Bay Golden Berry Non-Victory",
     "category": [
       "Blueberry Bay",
       "Beginner",
       "beginnersilver"
     ],
-    "requires": "(|Forest Path Crystal Heart| AND |Azure Caverns Crystal Heart| AND |Loopy Lagoon Crystal Heart| AND |Collapsing Skyline Crystal Heart| AND |Seeing Is Believing Crystal Heart| AND |Driveway Crystal Heart| AND |Cassette Cliffs Crystal Heart| AND |Over the City Crystal Heart| AND |Troposphere Crystal Heart| AND |Potential for Anything Crystal Heart| AND |Midnight Spire Crystal Heart| AND |paint Crystal Heart| AND |Rose Garden Crystal Heart| AND |Treehive Crystal Heart| AND |The Squeeze Crystal Heart| AND |Soap Crystal Heart| AND |Switchtube Vista Crystal Heart| AND |A Gift From the Stars Crystal Heart| AND |Strawberry Orchard Crystal Heart| AND |Dropzle Crystal Heart| AND |Coresaken City Crystal Heart|)"
+    "region": "Blueberry Bay"
   },
   {
     "name": "Frosted Fragments Silver Berry",
@@ -2646,13 +2657,996 @@
     "requires": "|Pointless Machines Access Key|"
   },
   {
-    "name": "Raspberry Roots Silver Berry",
+    "name": "Raspberry Roots Golden Berry Non-Victory",
     "category": [
       "Intermediate",
       "intsilver",
       "Raspberry Roots"
     ],
     "requires": "(|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart|AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart|AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart|AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart|AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart|AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart|AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|)"
-}
-  
+  },
+  {
+    "name": "Raspberry Roots Golden Berry",
+    "victory": true,
+    "category": [
+      "Raspberry Roots"
+    ],
+    "requires": "(|Sleeping Under Stars Crystal Heart| AND |Frosted Fragments Crystal Heart| AND |Fifth Dimension Crystal Heart| AND |LowG Botany Crystal Heart| AND |Sea of Soup Crystal Heart| AND |Vertigo Crystal Heart|AND |EAT GIRL Crystal Heart| AND |Honeyzip Inc. Crystal Heart|AND |In Filtration Crystal Heart| AND |Supernautica Crystal Heart|AND |The Tower Crystal Heart| AND |Pointless Machines Crystal Heart|AND |Construction Conundrum Crystal Heart| AND |Square the Circle Crystal Heart|AND |Deep Blue Crystal Heart| AND |Temple of a Thousand Skies Crystal Heart|AND |Midnight Monsoon Crystal Heart| AND |Pufferfish Transportation Co. Crystal Heart|)"
+  },
+  {
+    "victory": true,
+    "name": "Beginner Rainbow Berry",
+    "category": [
+      "Blueberry Bay"
+    ],
+    "requires": "(|Forest Path Access Key| AND |Azure Caverns Access Key| AND |Loopy Lagoon Access Key| AND |Collapsing Skyline Access Key| AND |Seeing Is Believing Access Key| AND |driveway Access Key| AND |Cassette Cliffs Access Key| AND |Over the City Access Key| AND |Troposphere Access Key| AND |Potential for Anything Access Key| AND |Midnight Spire Access Key| AND |paint Access Key| AND |Rose Garden Access Key| AND |Treehive Access Key| AND |The Squeeze Access Key| AND |Soap Access Key| AND |Switchtube Vista Access Key| AND |A Gift From the Stars Access Key| AND |Strawberry Orchard Access Key| AND |Dropzle Access Key| AND |Coresaken City Access Key|)"
+  },
+  {
+    "name": "Intermediate Rainbow Berry",
+    "victory": true,
+    "category": [
+      "Lobby Silver"
+    ],
+    "requires": "(|Sleeping Under Stars Access Key| AND |Frosted Fragments Access Key| AND |Fifth Dimension Access Key| AND |LowG Botany Access Key| AND |Sea of Soup Access Key| AND |Vertigo Access Key|AND |EAT GIRL Access Key| AND |Honeyzip Inc. Access Key|AND |In Filtration Access Key| AND |Supernautica Access Key|AND |The Tower Access Key| AND |Pointless Machines Access Key|AND |Construction Conundrum Access Key| AND |Square the Circle Access Key|AND |Deep Blue Access Key| AND |Temple of a Thousand Skies Access Key|AND |Midnight Monsoon Access Key| AND |Pufferfish Transportation Co. Access Key|)"
+  },
+  {
+    "name": "Sands of Time Crystal Heart",
+    "category": [
+      "Advanced",
+      "Sands of Time"
+    ],
+    "requires": "|Sands of Time Access Key|"
+  },
+  {
+    "name": "Slime Time Crystal Heart",
+    "category": [
+      "Advanced",
+      "Slime Time"
+    ],
+    "requires": "|Slime Time Access Key|"
+  },
+  {
+    "name": "Lethal Laser Laboratory Crystal Heart",
+    "category": [
+      "Advanced",
+      "Lethal Laser Laboratory"
+    ],
+    "requires": "|Lethal Laser Laboratory Access Key|"
+  },
+  {
+    "name": "Starry Ruins Crystal Heart",
+    "category": [
+      "Advanced",
+      "Starry Ruins"
+    ],
+    "requires": "|Starry Ruins Access Key|"
+  },
+  {
+    "name": "Undergrowth Crystal Heart",
+    "category": [
+      "Advanced",
+      "Undergrowth"
+    ],
+    "requires": "|Undergrowth Access Key|"
+  },
+  {
+    "name": "Lost Woods Crystal Heart",
+    "category": [
+      "Advanced",
+      "Lost Woods"
+    ],
+    "requires": "|Lost Woods Access Key|"
+  },
+  {
+    "name": "Jellyfish Sanctum Crystal Heart",
+    "category": [
+      "Advanced",
+      "Jellyfish Sanctum"
+    ],
+    "requires": "|Jellyfish Sanctum Access Key|"
+  },
+  {
+    "name": "Tectonic Trenches Crystal Heart",
+    "category": [
+      "Advanced",
+      "Tectonic Trenches"
+    ],
+    "requires": "|Tectonic Trenches Access Key|"
+  },
+  {
+    "name": "Golden Dawn Crystal Heart",
+    "category": [
+      "Advanced",
+      "Golden Dawn"
+    ],
+    "requires": "|Golden Dawn Access Key|"
+  },
+  {
+    "name": "Forest Rush Crystal Heart",
+    "category": [
+      "Advanced",
+      "Forest Rush"
+    ],
+    "requires": "|Forest Rush Access Key|"
+  },
+  {
+    "name": "Attack of the Clone Crystal Heart",
+    "category": [
+      "Advanced",
+      "Attack of the Clone"
+    ],
+    "requires": "|Attack of the Clone Access Key|"
+  },
+  {
+    "name": "Bee Berserk Crystal Heart",
+    "category": [
+      "Advanced",
+      "Bee Berserk"
+    ],
+    "requires": "|Bee Berserk Access Key|"
+  },
+  {
+    "name": "Java's Crypt Crystal Heart",
+    "category": [
+      "Advanced",
+      "Java's Crypt"
+    ],
+    "requires": "|Java's Crypt Access Key|"
+  },
+  {
+    "name": "Raindrops on Roses Crystal Heart",
+    "category": [
+      "Advanced",
+      "Raindrops on Roses"
+    ],
+    "requires": "|Raindrops on Roses Access Key|"
+  },
+  {
+    "name": "Toggle Theory Crystal Heart",
+    "category": [
+      "Advanced",
+      "Toggle Theory"
+    ],
+    "requires": "|Toggle Theory Access Key|"
+  },
+  {
+    "name": "Superstructure Crystal Heart",
+    "category": [
+      "Advanced",
+      "Superstructure"
+    ],
+    "requires": "|Superstructure Access Key|"
+  },
+  {
+    "name": "The Tower (XVI) Crystal Heart",
+    "category": [
+      "Advanced",
+      "The Tower (XVI)"
+    ],
+    "requires": "|The Tower (XVI) Access Key|"
+  },
+  {
+    "name": "Starlight Station Crystal Heart",
+    "category": [
+      "Advanced",
+      "Starlight Station"
+    ],
+    "requires": "|Starlight Station Access Key|"
+  },
+  {
+    "name": "Dusk City Crystal Heart",
+    "category": [
+      "Advanced",
+      "Dusk City"
+    ],
+    "requires": "|Dusk City Access Key|"
+  },
+  {
+    "name": "Synapse Crystal Heart",
+    "category": [
+      "Advanced",
+      "Synapse"
+    ],
+    "requires": "|Synapse Access Key|"
+  },
+  {
+    "name": "The Lab Crystal Heart",
+    "category": [
+      "Advanced",
+      "The Lab"
+    ],
+    "requires": "|The Lab Access Key|"
+  },
+  {
+    "name": "Belated Valentine's Day Crystal Heart",
+    "category": [
+      "Advanced",
+      "Belated Valentine's Day"
+    ],
+    "requires": "|Belated Valentine's Day Access Key|"
+  },
+  {
+    "name": "Thinking with Portals Crystal Heart",
+    "category": [
+      "Advanced",
+      "Thinking with Portals"
+    ],
+    "requires": "|Thinking with Portals Access Key|"
+  },
+  {
+    "name": "RightsideDown Cavern Crystal Heart",
+    "category": [
+      "Advanced",
+      "RightsideDown Cavern"
+    ],
+    "requires": "|RightsideDown Cavern Access Key|"
+  },
+  {
+    "name": "Call of the Void Crystal Heart",
+    "category": [
+      "Advanced",
+      "Call of the Void"
+    ],
+    "requires": "|Call of the Void Access Key|"
+  },
+  {
+    "name": "Sandy Slopes Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Clifftop Forest Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mesa Tunnels Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Pastel Skies Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sandstone Village Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Verdant Hollows Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sunset Steppe Bench",
+    "category": [
+      "Advanced",
+      "Lobby",
+      "Bench"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Crystal Heart",
+    "victory": true,
+    "category": [
+      "Mango Mesa"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Crystal Heart Non-Victory",
+    "category": [
+      "Mango Mesa",
+      "Advanced"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 25",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 24",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 23",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 22",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 21",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 20",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 19",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 18",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 17",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 16",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 15",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 14",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 13",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 12",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 11",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 10",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 9",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 8",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 7",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 6",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 5",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 4",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 3",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 2",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Mango Mesa Checkpoint 1",
+    "category": [
+      "Mango Mesa",
+      "Advanced",
+      "Checkpoint"
+    ],
+    "requires": "(|RightsideDown Cavern Crystal Heart| AND |Sands of Time Crystal Heart|AND |Slime Time Crystal Heart|AND |Lethal Laser Laboratory Crystal Heart|AND |Starry Ruins Crystal Heart|AND |Undergrowth Crystal Heart|AND |Lost Woods Crystal Heart|AND |Jellyfish Sanctum Crystal Heart|AND |Tectonic Trenches Crystal Heart|AND |Golden Dawn Crystal Heart|AND |Forest Rush Crystal Heart|AND |Attack of the Clone Crystal Heart|AND |Bee Berserk Crystal Heart|AND |Java's Crypt Crystal Heart|AND |Raindrops on Roses Crystal Heart|AND |Call of the Void Crystal Heart|AND |Thinking with Portals Crystal Heart|AND |Belated Valentine's Day Crystal Heart|AND |The Lab Crystal Heart|AND |Synapse Crystal Heart|AND |Dusk City Crystal Heart|AND |Starlight Station Crystal Heart|AND |The Tower (XVI) Crystal Heart|AND |Superstructure Crystal Heart|AND |Toggle Theory Crystal Heart|"
+  },
+  {
+    "name": "Sands of Time Strawberry 1",
+    "category": [
+      "Advanced",
+      "Sands of Time"
+    ],
+    "requires": "|Sands of Time Access Key|"
+  },
+  {
+    "name": "Sands of Time Strawberry 2",
+    "category": [
+      "Advanced",
+      "Sands of Time"
+    ],
+    "requires": "|Sands of Time Access Key|"
+  },
+  {
+    "name": "Sands of Time Strawberry 3",
+    "category": [
+      "Advanced",
+      "Sands of Time"
+    ],
+    "requires": "|Sands of Time Access Key|"
+  },
+  {
+    "name": "Slime Time Strawberry 1",
+    "category": [
+      "Advanced",
+      "Slime Time"
+    ],
+    "requires": "|Slime Time Access Key|"
+  },
+  {
+    "name": "Slime Time Strawberry 2",
+    "category": [
+      "Advanced",
+      "Slime Time"
+    ],
+    "requires": "|Slime Time Access Key|"
+  },
+  {
+    "name": "Slime Time Strawberry 3",
+    "category": [
+      "Advanced",
+      "Slime Time"
+    ],
+    "requires": "|Slime Time Access Key|"
+  },
+  {
+    "name": "Lethal Laser Laboratory Strawberry",
+    "category": [
+      "Advanced",
+      "Lethal Laser Laboratory"
+    ],
+    "requires": "|Lethal Laser Laboratory Access Key|"
+  },
+  {
+    "name": "Undergrowth Strawberry 1",
+    "category": [
+      "Advanced",
+      "Undergrowth"
+    ],
+    "requires": "|Undergrowth Access Key|"
+  },
+  {
+    "name": "Undergrowth Strawberry 2",
+    "category": [
+      "Advanced",
+      "Undergrowth"
+    ],
+    "requires": "|Undergrowth Access Key|"
+  },
+  {
+    "name": "Undergrowth Strawberry 3",
+    "category": [
+      "Advanced",
+      "Undergrowth"
+    ],
+    "requires": "|Undergrowth Access Key|"
+  },
+  {
+    "name": "Undergrowth Strawberry 4",
+    "category": [
+      "Advanced",
+      "Undergrowth"
+    ],
+    "requires": "|Undergrowth Access Key|"
+  },
+  {
+    "name": "Undergrowth Strawberry 5",
+    "category": [
+      "Advanced",
+      "Undergrowth"
+    ],
+    "requires": "|Undergrowth Access Key|"
+  },
+  {
+    "name": "Lost Woods Strawberry",
+    "category": [
+      "Advanced",
+      "Lost Woods"
+    ],
+    "requires": "|Lost Woods Access Key|"
+  },
+  {
+    "name": "Jellyfish Sanctum Strawberry",
+    "category": [
+      "Advanced",
+      "Jellyfish Sanctum"
+    ],
+    "requires": "|Jellyfish Sanctum Access Key|"
+  },
+  {
+    "name": "Tectonic Trenches Strawberry 1",
+    "category": [
+      "Advanced",
+      "Tectonic Trenches"
+    ],
+    "requires": "|Tectonic Trenches Access Key|"
+  },
+  {
+    "name": "Tectonic Trenches Strawberry 2",
+    "category": [
+      "Advanced",
+      "Tectonic Trenches"
+    ],
+    "requires": "|Tectonic Trenches Access Key|"
+  },
+  {
+    "name": "Golden Dawn Strawberry 1",
+    "category": [
+      "Advanced",
+      "Golden Dawn"
+    ],
+    "requires": "|Golden Dawn Access Key|"
+  },
+  {
+    "name": "Golden Dawn Strawberry 2",
+    "category": [
+      "Advanced",
+      "Golden Dawn"
+    ],
+    "requires": "|Golden Dawn Access Key|"
+  },
+  {
+    "name": "Golden Dawn Strawberry 3",
+    "category": [
+      "Advanced",
+      "Golden Dawn"
+    ],
+    "requires": "|Golden Dawn Access Key|"
+  },
+  {
+    "name": "Forest Rush Strawberry 1",
+    "category": [
+      "Advanced",
+      "Forest Rush"
+    ],
+    "requires": "|Forest Rush Access Key|"
+  },
+  {
+    "name": "Forest Rush Strawberry 2",
+    "category": [
+      "Advanced",
+      "Forest Rush"
+    ],
+    "requires": "|Forest Rush Access Key|"
+  },
+  {
+    "name": "Forest Rush Strawberry 3",
+    "category": [
+      "Advanced",
+      "Forest Rush"
+    ],
+    "requires": "|Forest Rush Access Key|"
+  },
+  {
+    "name": "Attack of the Clone Strawberry",
+    "category": [
+      "Advanced",
+      "Attack of the Clone"
+    ],
+    "requires": "|Attack of the Clone Access Key|"
+  },
+  {
+    "name": "Bee Berserk Strawberry",
+    "category": [
+      "Advanced",
+      "Bee Berserk"
+    ],
+    "requires": "|Bee Berserk Access Key|"
+  },
+  {
+    "name": "Java's Crypt Strawberry 1",
+    "category": [
+      "Advanced",
+      "Java's Crypt"
+    ],
+    "requires": "|Java's Crypt Access Key|"
+  },
+  {
+    "name": "Java's Crypt Strawberry 2",
+    "category": [
+      "Advanced",
+      "Java's Crypt"
+    ],
+    "requires": "|Java's Crypt Access Key|"
+  },
+  {
+    "name": "Java's Crypt Strawberry 3",
+    "category": [
+      "Advanced",
+      "Java's Crypt"
+    ],
+    "requires": "|Java's Crypt Access Key|"
+  },
+  {
+    "name": "Java's Crypt Strawberry 4",
+    "category": [
+      "Advanced",
+      "Java's Crypt"
+    ],
+    "requires": "|Java's Crypt Access Key|"
+  },
+  {
+    "name": "Java's Crypt Strawberry 5",
+    "category": [
+      "Advanced",
+      "Java's Crypt"
+    ],
+    "requires": "|Java's Crypt Access Key|"
+  },
+  {
+    "name": "Raindrops on Roses Strawberry 1",
+    "category": [
+      "Advanced",
+      "Raindrops on Roses"
+    ],
+    "requires": "|Raindrops on Roses Access Key|"
+  },
+  {
+    "name": "Raindrops on Roses Strawberry 2",
+    "category": [
+      "Advanced",
+      "Raindrops on Roses"
+    ],
+    "requires": "|Raindrops on Roses Access Key|"
+  },
+  {
+    "name": "Raindrops on Roses Strawberry 3",
+    "category": [
+      "Advanced",
+      "Raindrops on Roses"
+    ],
+    "requires": "|Raindrops on Roses Access Key|"
+  },
+  {
+    "name": "Raindrops on Roses Strawberry 4",
+    "category": [
+      "Advanced",
+      "Raindrops on Roses"
+    ],
+    "requires": "|Raindrops on Roses Access Key|"
+  },
+  {
+    "name": "Toggle Theory Strawberry 1",
+    "category": [
+      "Advanced",
+      "Toggle Theory"
+    ],
+    "requires": "|Toggle Theory Access Key|"
+  },
+  {
+    "name": "Toggle Theory Strawberry 2",
+    "category": [
+      "Advanced",
+      "Toggle Theory"
+    ],
+    "requires": "|Toggle Theory Access Key|"
+  },
+  {
+    "name": "Toggle Theory Strawberry 3",
+    "category": [
+      "Advanced",
+      "Toggle Theory"
+    ],
+    "requires": "|Toggle Theory Access Key|"
+  },
+  {
+    "name": "Superstructure Strawberry",
+    "category": [
+      "Advanced",
+      "Superstructure"
+    ],
+    "requires": "|Superstructure Access Key|"
+  },
+  {
+    "name": "Starlight Station Strawberry 1",
+    "category": [
+      "Advanced",
+      "Starlight Station"
+    ],
+    "requires": "|Starlight Station Access Key|"
+  },
+  {
+    "name": "Starlight Station Strawberry 2",
+    "category": [
+      "Advanced",
+      "Starlight Station"
+    ],
+    "requires": "|Starlight Station Access Key|"
+  },
+  {
+    "name": "Starlight Station Strawberry 3",
+    "category": [
+      "Advanced",
+      "Starlight Station"
+    ],
+    "requires": "|Starlight Station Access Key|"
+  },
+  {
+    "name": "Synapse Strawberry",
+    "category": [
+      "Advanced",
+      "Synapse"
+    ],
+    "requires": "|Synapse Access Key|"
+  },
+  {
+    "name": "The Lab Strawberry 1",
+    "category": [
+      "Advanced",
+      "The Lab"
+    ],
+    "requires": "|The Lab Access Key|"
+  },
+  {
+    "name": "The Lab Strawberry 2",
+    "category": [
+      "Advanced",
+      "The Lab"
+    ],
+    "requires": "|The Lab Access Key|"
+  },
+  {
+    "name": "The Lab Strawberry 3",
+    "category": [
+      "Advanced",
+      "The Lab"
+    ],
+    "requires": "|The Lab Access Key|"
+  },
+  {
+    "name": "Belated Valentine's Day Strawberry 1",
+    "category": [
+      "Advanced",
+      "Belated Valentine's Day"
+    ],
+    "requires": "|Belated Valentine's Day Access Key|"
+  },
+  {
+    "name": "Belated Valentine's Day Strawberry 2",
+    "category": [
+      "Advanced",
+      "Belated Valentine's Day"
+    ],
+    "requires": "|Belated Valentine's Day Access Key|"
+  },
+  {
+    "name": "Thinking with Portals Strawberry 1",
+    "category": [
+      "Advanced",
+      "Thinking with Portals"
+    ],
+    "requires": "|Thinking with Portals Access Key|"
+  },
+  {
+    "name": "Thinking with Portals Strawberry 2",
+    "category": [
+      "Advanced",
+      "Thinking with Portals"
+    ],
+    "requires": "|Thinking with Portals Access Key|"
+  },
+  {
+    "name": "Thinking with Portals Strawberry 3",
+    "category": [
+      "Advanced",
+      "Thinking with Portals"
+    ],
+    "requires": "|Thinking with Portals Access Key|"
+  },
+  {
+    "name": "RightsideDown Cavern Strawberry 1",
+    "category": [
+      "Advanced",
+      "RightsideDown Cavern"
+    ],
+    "requires": "|RightsideDown Cavern Access Key|"
+  },
+  {
+    "name": "RightsideDown Cavern Strawberry 2",
+    "category": [
+      "Advanced",
+      "RightsideDown Cavern"
+    ],
+    "requires": "|RightsideDown Cavern Access Key|"
+  },
+  {
+    "name": "RightsideDown Cavern Strawberry 3",
+    "category": [
+      "Advanced",
+      "RightsideDown Cavern"
+    ],
+    "requires": "|RightsideDown Cavern Access Key|"
+  },
+  {
+    "name": "Call of the Void Strawberry 1",
+    "category": [
+      "Advanced",
+      "Call of the Void"
+    ],
+    "requires": "|Call of the Void Access Key|"
+  },
+  {
+    "name": "Call of the Void Strawberry 2",
+    "category": [
+      "Advanced",
+      "Call of the Void"
+    ],
+    "requires": "|Call of the Void Access Key|"
+  },
+  {
+    "name": "Call of the Void Strawberry 3",
+    "category": [
+      "Advanced",
+      "Call of the Void"
+    ],
+    "requires": "|Call of the Void Access Key|"
+  },
+  {
+    "name": "Call of the Void Strawberry 4",
+    "category": [
+      "Advanced",
+      "Call of the Void"
+    ],
+    "requires": "|Call of the Void Access Key|"
+  },
+  {
+    "name": "Call of the Void Strawberry 5",
+    "category": [
+      "Advanced",
+      "Call of the Void"
+    ],
+    "requires": "|Call of the Void Access Key|"
+  }
 ]
